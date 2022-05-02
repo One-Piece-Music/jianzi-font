@@ -1,0 +1,205 @@
+{
+  "partialSymbol": {
+    "independentSymbol": {
+      "numberChar": {
+        "x": 250,
+        "y": 250,
+        "width": 500,
+        "height": 500,
+        "glyphs": [
+          { "name": "一", "filename": "57344", "unicode": 57400 },
+          { "name": "二", "filename": "57345", "unicode": 57401 },
+          { "name": "三", "filename": "57346", "unicode": 57402 },
+          { "name": "四", "filename": "57347", "unicode": 57403 },
+          { "name": "五", "filename": "57348", "unicode": 57404 },
+          { "name": "六", "filename": "57349", "unicode": 57405 },
+          { "name": "七", "filename": "57350", "unicode": 57406 }
+        ]
+      },
+      "gestureChar": {
+        "x": 200,
+        "y": 200,
+        "width": 600,
+        "height": 600,
+        "glyphs": [{ "name": "吟", "filename": "57396", "unicode": 57500 }]
+      }
+    },
+    "exactRightHandSymbol": {
+      "gestureChar": {
+        "fullChar": {
+          "x": 100,
+          "y": 100,
+          "width": 800,
+          "height": 800,
+          "glyphs": [
+            { "name": "擘", "filename": "57360", "unicode": 57601 },
+            { "name": "挑", "filename": "57361", "unicode": 57602 },
+            { "name": "勾", "filename": "57364", "unicode": 57605 },
+            { "name": "历", "filename": "57369", "unicode": 57610 },
+            { "name": "撮", "filename": "57388", "unicode": 57629 }
+          ]
+        }
+      },
+      "numberChar": {
+        "surroundedFromUpperLeft": {
+          "x": 400,
+          "y": 100,
+          "width": 400,
+          "height": 400,
+          "glyphs": [
+            { "name": "一", "filename": "57344", "unicode": 57700 },
+            { "name": "二", "filename": "57345", "unicode": 57701 },
+            { "name": "三", "filename": "57346", "unicode": 57702 },
+            { "name": "四", "filename": "57347", "unicode": 57703 },
+            { "name": "五", "filename": "57348", "unicode": 57704 },
+            { "name": "六", "filename": "57349", "unicode": 57705 },
+            { "name": "七", "filename": "57350", "unicode": 57706 }
+          ]
+        },
+        "surroundedFromLowerLeft": {
+          "x": 300,
+          "y": 400,
+          "width": 400,
+          "height": 400,
+          "glyphs": [
+            { "name": "一", "filename": "57344", "unicode": 57800 },
+            { "name": "二", "filename": "57345", "unicode": 57801 },
+            { "name": "三", "filename": "57346", "unicode": 57802 },
+            { "name": "四", "filename": "57347", "unicode": 57803 },
+            { "name": "五", "filename": "57348", "unicode": 57804 },
+            { "name": "六", "filename": "57349", "unicode": 57805 },
+            { "name": "七", "filename": "57350", "unicode": 57806 }
+          ]
+        },
+        "surroundedFromUpperRight": {
+          "x": 250,
+          "y": 300,
+          "width": 400,
+          "height": 300,
+          "glyphs": [
+            { "name": "一", "filename": "57344", "unicode": 57900 },
+            { "name": "二", "filename": "57345", "unicode": 57901 },
+            { "name": "三", "filename": "57346", "unicode": 57902 },
+            { "name": "四", "filename": "57347", "unicode": 57903 },
+            { "name": "五", "filename": "57348", "unicode": 57904 },
+            { "name": "六", "filename": "57349", "unicode": 57905 },
+            { "name": "七", "filename": "57350", "unicode": 57906 }
+          ]
+        }
+      }
+    }
+  },
+  "wholeSymbol": {
+    "leftHandSymbol": {
+      "gestureChar": {
+        "fullChar": {
+          "x": 0,
+          "y": 700,
+          "width": 1000,
+          "height": 300,
+          "glyphs": [
+            { "name": "散", "filename": "57357", "unicode": 58000 },
+            { "name": "按", "filename": "57358", "unicode": 58001 }
+          ]
+        },
+        "leftHalfChar": {
+          "x": 50,
+          "y": 700,
+          "width": 400,
+          "height": 300,
+          "glyphs": [
+            { "name": "大", "filename": "57392", "unicode": 58100 },
+            { "name": "食", "filename": "57393", "unicode": 58101 },
+            { "name": "中", "filename": "57394", "unicode": 58102 },
+            { "name": "名", "filename": "57395", "unicode": 58103 }
+          ]
+        }
+      },
+      "numberChar": {
+        "rightHalfChar": {
+          "x": 550,
+          "y": 700,
+          "width": 400,
+          "height": 300,
+          "glyphs": [
+            { "name": "一", "filename": "57344", "unicode": 58150 },
+            { "name": "二", "filename": "57345", "unicode": 58151 },
+            { "name": "三", "filename": "57346", "unicode": 58152 },
+            { "name": "四", "filename": "57347", "unicode": 58153 },
+            { "name": "五", "filename": "57348", "unicode": 58154 },
+            { "name": "六", "filename": "57349", "unicode": 58155 },
+            { "name": "七", "filename": "57350", "unicode": 58156 },
+            { "name": "八", "filename": "57351", "unicode": 58157 },
+            { "name": "九", "filename": "57352", "unicode": 58158 },
+            { "name": "十", "filename": "57353", "unicode": 58159 }
+          ]
+        }
+      }
+    },
+    "rightHandSymbol": {
+      "gestureChar": {
+        "fullChar": {
+          "x": 0,
+          "y": 0,
+          "width": 1000,
+          "height": 700,
+          "glyphs": [
+            { "name": "擘", "filename": "57360", "unicode": 58201 },
+            { "name": "挑", "filename": "57361", "unicode": 58202 },
+            { "name": "勾", "filename": "57364", "unicode": 58205 },
+            { "name": "历", "filename": "57369", "unicode": 58210 },
+            { "name": "撮", "filename": "57388", "unicode": 58229 }
+          ]
+        }
+      },
+      "numberChar": {
+        "surroundedFromUpperLeft": {
+          "x": 400,
+          "y": 0,
+          "width": 400,
+          "height": 400,
+          "glyphs": [
+            { "name": "一", "filename": "57344", "unicode": 58300 },
+            { "name": "二", "filename": "57345", "unicode": 58301 },
+            { "name": "三", "filename": "57346", "unicode": 58302 },
+            { "name": "四", "filename": "57347", "unicode": 58303 },
+            { "name": "五", "filename": "57348", "unicode": 58304 },
+            { "name": "六", "filename": "57349", "unicode": 58305 },
+            { "name": "七", "filename": "57350", "unicode": 58306 }
+          ]
+        },
+        "surroundedFromLowerLeft": {
+          "x": 300,
+          "y": 200,
+          "width": 400,
+          "height": 400,
+          "glyphs": [
+            { "name": "一", "filename": "57344", "unicode": 58400 },
+            { "name": "二", "filename": "57345", "unicode": 58401 },
+            { "name": "三", "filename": "57346", "unicode": 58402 },
+            { "name": "四", "filename": "57347", "unicode": 58403 },
+            { "name": "五", "filename": "57348", "unicode": 58404 },
+            { "name": "六", "filename": "57349", "unicode": 58405 },
+            { "name": "七", "filename": "57350", "unicode": 58406 }
+          ]
+        },
+        "surroundedFromUpperRight": {
+          "x": 300,
+          "y": 150,
+          "width": 400,
+          "height": 300,
+          "glyphs": [
+            { "name": "一", "filename": "57344", "unicode": 58500 },
+            { "name": "二", "filename": "57345", "unicode": 58501 },
+            { "name": "三", "filename": "57346", "unicode": 58502 },
+            { "name": "四", "filename": "57347", "unicode": 58503 },
+            { "name": "五", "filename": "57348", "unicode": 58504 },
+            { "name": "六", "filename": "57349", "unicode": 58505 },
+            { "name": "七", "filename": "57350", "unicode": 58506 }
+          ]
+        }
+      }
+    },
+    "performanceSymbol": {}
+  }
+}
