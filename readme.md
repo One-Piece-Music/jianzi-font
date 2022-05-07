@@ -12,3 +12,8 @@ Change the current working directory to `/src` folder and run `fontforge-jianzi-
 $ fontforge -lang=py --script ./fontforge-jianzi-font.py
 ```
 
+The build result will be in the `/dist` folder.
+
+### License
+
+This font is licensed under the [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
